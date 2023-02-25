@@ -1,0 +1,3 @@
+- Log in [[stripe]]
+- Navigate to [[stripe-page-customers]]
+- Select customer
