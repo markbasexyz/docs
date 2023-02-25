@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden Center.md",
+                "file": "Garden Center/Markbase Garden Center.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden Center.md",
+                "file": "Garden Center/Markbase Garden Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden Center.md",
+                "file": "Garden Center/Markbase Garden Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden Center.md"
+                "file": "Garden Center/Markbase Garden Center.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "obsidian-markbase:Sync all Markbase projects": false
     }
   },
-  "active": "80a51522d33e5827",
+  "active": "37c3217c8eb1f3de",
   "lastOpenFiles": [
+    "Garden Center/Gardening with Markbase/Getting Started/Guide.md",
+    "Garden Center.md",
     "glossary/Stream.md"
   ]
 }

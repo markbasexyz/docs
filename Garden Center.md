@@ -1,7 +1,3 @@
----
-home: true
----
-
 # One Click Publish
 ## Sync local files to your own online blog/digital garden
 
